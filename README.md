@@ -4,9 +4,9 @@ React + Express + MongoDB のテンプレート
 
 # 環境構築
 
-1. docker-compose run --rm frontend sh -c "yarn"
-2. docker-compose run --rm backend sh -c "yarn"
-3. docker compose up -d
+1. make をインストール(既にインストール済みならスキップ)
+2. make build
+3. make up
 
 # 環境
 
